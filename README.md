@@ -6,6 +6,9 @@ Dezembro 2019.
 # Tecnologias:
 HTML5 / CSS3 / BootStrap / AspNet / MySQL / Android / Java
 
+# Metodologias
+Design Thinking / Design Sprint / Design UX / Steam / Scrum
+
 # Sobre o projeto
 O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
 moedas digitais – πJM’s – onde o consumidor consegue ter retorno de algumas
