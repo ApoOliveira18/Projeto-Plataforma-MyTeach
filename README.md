@@ -1,5 +1,18 @@
 # Plataforma de ensino online MyTeach
 
+Fiz a orientação desse Projeto de Conclusão de Curso técnica ETEP - São José dos Campos/SP que finalizou em
+Dezembro 2019.
+
+# Tecnologias:
+HTML5
+CSS3
+BootStrap
+AspNet
+MySQL
+Android
+Java
+
+# Sobre o projeto
 O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
 moedas digitais – πJM’s – onde o consumidor consegue ter retorno de algumas
 moedas - πJModel Return- para poder investir em outros cursos de nosso site. Ele
