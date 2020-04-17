@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">iTeach Professor</string>
+    <string name="lblLogin">Login</string>
+    <string name="lblSenha">Senha</string>
+</resources>
