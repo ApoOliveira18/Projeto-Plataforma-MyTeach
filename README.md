@@ -1,7 +1,7 @@
 # Plataforma de ensino online MyTeach
 
 Fiz a orientação desse Projeto de Conclusão de Curso técnica ETEP - São José dos Campos/SP que finalizou em
-Dezembro 2019.
+Dezembro 2019. O projeto consistiu em um Site e um App Android da plataforma de ensino online.
 
 # Tecnologias:
 HTML5 / CSS3 / BootStrap / AspNet / MySQL / Android / Java
