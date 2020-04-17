@@ -4,13 +4,7 @@ Fiz a orientação desse Projeto de Conclusão de Curso técnica ETEP - São Jos
 Dezembro 2019.
 
 # Tecnologias:
-HTML5
-CSS3
-BootStrap
-AspNet
-MySQL
-Android
-Java
+HTML5 / CSS3 / BootStrap / AspNet / MySQL / Android / Java
 
 # Sobre o projeto
 O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
