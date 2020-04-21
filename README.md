@@ -27,8 +27,8 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#Metodologias">Metodologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">Licença</a>
+  <a href="#information_source-como-usar">Como Usar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
 </p>
 
 ## :Tecnologias
@@ -63,11 +63,11 @@ Artigos que estou a publicar no Medium que explica resumidamente cada metodologi
 - [Design UI](#)
 - [Scrum](#)
 
-## :information_source: How To Use
+## :information_source: Como Usar
 
 Para executar essa aplicação você vai precisar de Visual Studio 2017, MySQL Server 5.5 and Android Studio 3.5 e o banco de dados do projeto para carregar os inserts do mesmo.
 
-## :memo: License
+## :memo: Licença
 Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
 
 ---
