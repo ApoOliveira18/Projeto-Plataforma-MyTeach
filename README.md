@@ -38,6 +38,11 @@ Esse projeto foi desenvolvido com  as seguintes tecnologias:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
+- [Node.js](https://nodejs.org/en/) 
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
+
 ## :Metodologias
 - [Node.js](https://nodejs.org/en/) 
 - [React](https://reactjs.org)
