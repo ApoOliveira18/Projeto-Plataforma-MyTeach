@@ -1,24 +1,3 @@
-# Plataforma de ensino online MyTeach
-
-Fiz a orientação desse Projeto de Conclusão de Curso técnico da ETEP - São José dos Campos/SP que finalizou em
-Dezembro 2019. O projeto consistiu em um Site e um App Android da plataforma de ensino online.
-
-# Tecnologias:
-HTML5 / CSS3 / BootStrap / AspNet / MySQL / Android / Java
-
-# Metodologias
-Design Thinking / Design Sprint / Design UX / Steam / Scrum
-
-# Sobre o projeto
-O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
-moedas digitais – πJM’s – onde o consumidor consegue ter retorno de algumas
-moedas - πJModel Return- para poder investir em outros cursos de nosso site. Ele
-foi pensado em atender a necessidade de atualização das informações para o
-mercado de trabalho ou nos estudos. Seu desenvolvimento contribui no aprendizado
-e na vida econômica de nossos usuários pois comprando ele ganha mais que o
-curso, ganha também moedas, isso tudo sem sair de casa para estudar.
-
-
 <h1 align="center">
     <img alt="Projeto MyTeach" src="caminho completo do logo" />
     <br>
@@ -28,6 +7,14 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.
 <h4 align="center">
   MyTeach - desenvolvida para apresentação de trabalho acadêmico de conclusão de curso
 </h4>
+<p>
+    O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
+moedas digitais – πJM’s – onde o consumidor consegue ter retorno de algumas
+moedas - πJModel Return- para poder investir em outros cursos de nosso site. Ele
+foi pensado em atender a necessidade de atualização das informações para o
+mercado de trabalho ou nos estudos. Seu desenvolvimento contribui no aprendizado
+e na vida econômica de nossos usuários pois comprando ele ganha mais que o
+curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
 <p align="center">
   <img alt="GitHub top language" src="rocketshoes-react-native.svg">
 
@@ -50,7 +37,8 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.
 </p>
 
 <p align="center">
-  <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#Tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#Metodologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
@@ -60,7 +48,7 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.
   <img alt="Interface do Site" src="">
 </p>
 
-## : Tecnologias
+## :Tecnologias
 
 Esse projeto foi desenvolvido com  as seguintes tecnologias:
 
@@ -73,6 +61,11 @@ Esse projeto foi desenvolvido com  as seguintes tecnologias:
 -  [MySQL5.5](https://reactjs.org/)
 -  [Android Studio](https://reactjs.org/)
 -  [Java](https://reactjs.org/)
+
+## :Metodologias
+-  [Design Thinking](https://reactjs.org/)
+-  [Design Sprint](https://reactjs.org/)
+-  [UX Design](https://reactjs.org/)
 
 ## :information_source: Como executar o projeto
 
