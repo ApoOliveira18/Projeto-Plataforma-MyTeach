@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="MyTeach" title="#MyTeach" src="MyTeach_SITE/img/marca_myteach.png" width="250px" />
+    <img alt="MyTeach" title="#MyTeach" src="MyTeach_SITE/img/marca_myteach.png" width="500px" />
 </h1>
 
 <h4 align="center"> 
