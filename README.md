@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Projeto MyTeach" src="caminho completo do logo" />
+    <img alt="Projeto MyTeach" src="https://github.com/ApoOliveira18/Projeto-Plataforma-MyTeach/tree/master/MyTeach_SITE/Imagens/Curso/homeInicio.png" />
    
 </h1>
 
@@ -14,10 +14,7 @@ foi pensado em atender a necessidade de atualização das informações para o
 mercado de trabalho ou nos estudos. Seu desenvolvimento contribui no aprendizado
 e na vida econômica de nossos usuários pois comprando ele ganha mais que o
 curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
-<p>
 
-  <img alt="GitHub" src="rocketshoes-react-native.svg">
-</p>
 
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
