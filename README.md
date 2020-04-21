@@ -1,7 +1,7 @@
 <h1 align="center">
   Plataforma de ensino online MyTeach
 </h1>
-<p align="center" valing="top">
+<p align="center" vetical-aling="top">
     <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Moeda PJM" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  src="MyTeach_SITE/Imagens/Curso/cursoMath.png" alt="Cursos" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
