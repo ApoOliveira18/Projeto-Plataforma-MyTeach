@@ -45,10 +45,13 @@ Esse projeto foi desenvolvido com  as seguintes tecnologias:
 - [MySQL](https://facebook.github.io/react-native/)
 
 ## :Metodologias
-- [Design UX](https://nodejs.org/en/) 
-- [Design Sprint](https://reactjs.org)
-- [Design UI](https://facebook.github.io/react-native/)
-- [Scrum](https://expo.io/)
+
+Metodologias utilizadas durante o desenvolvimento:
+
+- [Design UX]() 
+- [Design Sprint]()
+- [Design UI]()
+- [Scrum]()
 
 ## :information_source: How To Use
 
@@ -59,4 +62,4 @@ Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
 
 ---
 
-Made with ♥ by Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
+Feito com ♥ por Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
