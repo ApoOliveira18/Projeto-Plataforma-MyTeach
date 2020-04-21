@@ -27,11 +27,6 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
   <a href="#memo-license">Licença</a>
 </p>
 
-
-<p align="center">
-  <img alt="Interface do Site" src="">
-</p>
-
 ## :Tecnologias
 
 Esse projeto foi desenvolvido com  as seguintes tecnologias:
