@@ -52,13 +52,11 @@ Esse projeto foi desenvolvido com  as seguintes tecnologias:
 
 ## :information_source: How To Use
 
-Para clonar e usar essa aplicação você vai precisar de Visual Studio 2017, MySQL 5.5 and Android Studio 3.5
+Para executar essa aplicação você vai precisar de Visual Studio 2017, MySQL Server 5.5 and Android Studio 3.5
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE] for more information.
+Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
 
 ---
 
-Made with ♥ by Adilson Oliveira :wave: [Get in touch!] linkendin
-
-[VisualStudio2017]: https://visualstudio2017.com
+Made with ♥ by Adilson Oliveira :wave: [Get in touch!] www.linkedin.com/in/adilson-p-oliveira
