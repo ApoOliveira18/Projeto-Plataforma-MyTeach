@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Projeto MyTeach" src="https://github.com/ApoOliveira18/Projeto-Plataforma-MyTeach/tree/master/MyTeach_SITE/Imagens/Curso/homeInicio.png" />
+    <img  src="https://github.com/ApoOliveira18/Projeto-Plataforma-MyTeach/tree/master/MyTeach_SITE/Imagens/Curso/homeInicio.png" />
    
 </p>
 
