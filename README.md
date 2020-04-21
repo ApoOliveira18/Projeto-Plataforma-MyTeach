@@ -33,7 +33,7 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
 
 ## :Tecnologias
 
-Esse projeto foi desenvolvido com  as seguintes tecnologias:
+Este projeto foi desenvolvido com  as seguintes tecnologias:
 
 - [Asp.NET](https://dotnet.microsoft.com/apps/aspnet)
 - [CSharp](https://docs.microsoft.com/pt-br/dotnet/csharp/)
