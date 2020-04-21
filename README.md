@@ -1,13 +1,6 @@
-<h1 align="center">
-    <img alt="MyTeach" title="#MyTeach" src="MyTeach_SITE/img/marca_myteach.png" width="500px" />
-</h1>
-
 <h4 align="center"> 
-	:heavy_check_mark: 🚀 Plataforma de ensino online MyTeach :heavy_check_mark:
+	:heavy_check_mark:  Plataforma de ensino online MyTeach :heavy_check_mark:
 </h4>
-
-
-
 
 <p align="center" vetical-aling="top">
     <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
