@@ -1,16 +1,14 @@
+<h1 align="center">
+  Plataforma de ensino online MyTeach
+</h1>
 <p align="center">
     <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-   
+    <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Moeda PJM" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  src="MyTeach_SITE/Imagens/Curso/cursoMath.png" alt="Cursos" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  src="MyTeach_SITE/Imagens/Curso/addCursos.png" alt="Adicionar Cursos" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  src="MyTeach_SITE/Imagens/Curso/imgPJM.png" alt="Interface PJM" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  src="MyTeach_SITE/Imagens/Curso/meusPagtos.png" alt="Meus Pagamentos" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
-
-<h4 align="center">
-  Plataforma de ensino online MyTeach
-</h4>
 <p>
     O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
 moedas digitais – πJM’s – onde o consumidor consegue ter retorno de algumas
