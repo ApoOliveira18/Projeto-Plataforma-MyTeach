@@ -1,6 +1,8 @@
 <p align="center">
     <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
    
 </p>
 
