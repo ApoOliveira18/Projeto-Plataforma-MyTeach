@@ -48,14 +48,14 @@ Esse projeto foi desenvolvido com  as seguintes tecnologias:
 
 Metodologias utilizadas durante o desenvolvimento:
 
-- [Design UX]() 
-- [Design Sprint]()
-- [Design UI]()
-- [Scrum]()
+- [Design UX](#) 
+- [Design Sprint](#)
+- [Design UI](#)
+- [Scrum](#)
 
 ## :information_source: How To Use
 
-Para executar essa aplicação você vai precisar de Visual Studio 2017, MySQL Server 5.5 and Android Studio 3.5
+Para executar essa aplicação você vai precisar de Visual Studio 2017, MySQL Server 5.5 and Android Studio 3.5 e o banco de dados do projeto para carregar os inserts do mesmo.
 
 ## :memo: License
 Este projeto está sob licença MIT. Veja a [LICENSE] para mais informações.
