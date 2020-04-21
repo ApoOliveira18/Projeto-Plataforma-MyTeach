@@ -1,6 +1,14 @@
 <h1 align="center">
-  Plataforma de ensino online MyTeach
+    <img alt="MyTeach" title="#MyTeach" src="https://github.com/ApoOliveira18/AppsFullStack/blob/master/frontend/src/assets/logo.svg" width="250px" />
 </h1>
+
+<h4 align="center"> 
+	:heavy_check_mark: 🚀 Plataforma de ensino online MyTeach :heavy_check_mark:
+</h4>
+
+
+
+
 <p align="center" vetical-aling="top">
     <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Moeda PJM" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
