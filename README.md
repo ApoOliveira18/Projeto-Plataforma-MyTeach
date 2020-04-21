@@ -1,3 +1,5 @@
+<h1 align="center"><img src="MyTeach_SITE/img/logo_site_preta (1).ico " alt="Homepage" width="500"/></h1>
+
 <h4 align="center"> 
 	:heavy_check_mark:  Plataforma de ensino online MyTeach :heavy_check_mark:
 </h4>
