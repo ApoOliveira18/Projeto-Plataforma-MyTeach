@@ -1,11 +1,10 @@
 <h1 align="center">
     <img alt="Projeto MyTeach" src="caminho completo do logo" />
-    <br>
-    Plataforma de ensino online MyTeach
+   
 </h1>
 
 <h4 align="center">
-  MyTeach - desenvolvida para apresentação de trabalho acadêmico de conclusão de curso
+  Plataforma de ensino online MyTeach
 </h4>
 <p>
     O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
