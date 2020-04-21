@@ -1,5 +1,5 @@
 <p align="center">
-    <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" />
+    <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" alt="Homepage" width="250" />
    
 </p>
 
