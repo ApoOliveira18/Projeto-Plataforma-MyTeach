@@ -1,7 +1,7 @@
-<h1 align="center">
+<p align="center">
     <img alt="Projeto MyTeach" src="https://github.com/ApoOliveira18/Projeto-Plataforma-MyTeach/tree/master/MyTeach_SITE/Imagens/Curso/homeInicio.png" />
    
-</h1>
+</p>
 
 <h4 align="center">
   Plataforma de ensino online MyTeach
