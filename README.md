@@ -35,7 +35,6 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
 
 Esse projeto foi desenvolvido com  as seguintes tecnologias:
 
-- [Visual Studio 2017](https://visualstudio.microsoft.com/pt-br/) 
 - [Asp.NET](https://dotnet.microsoft.com/apps/aspnet)
 - [CSharp](https://docs.microsoft.com/pt-br/dotnet/csharp/)
 - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
