@@ -62,7 +62,7 @@ Os seguintes softwares foram utilizados neste projeto:
 
 ## :Metodologias
 
-Artigos que estou a publicar no Medium que explica resumidamente cada metodologia :
+Artigos que estou a publicar no Medium que explica resumidamente cada metodologia utilizada :
 
 - [Design UX](#) 
 - [Design Sprint](#)
