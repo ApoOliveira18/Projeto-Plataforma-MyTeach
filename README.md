@@ -2,6 +2,7 @@
 	:heavy_check_mark:  Plataforma de ensino online MyTeach :heavy_check_mark:
 </h4>
 
+## 🔖 Algumas Interfaces 
 <p align="center" vetical-aling="top">
     <img  src="MyTeach_SITE/Imagens/Curso/homeInicio.png" alt="Homepage" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img  src="MyTeach_SITE/Imagens/Curso/moedaInicio.png" alt="Moeda PJM" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -20,7 +21,6 @@ foi pensado em atender a necessidade de atualização das informações para o
 mercado de trabalho ou nos estudos. Seu desenvolvimento contribui no aprendizado
 e na vida econômica de nossos usuários pois comprando ele ganha mais que o
 curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
-
 
 <p align="center">
   <a href="#Tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
