@@ -33,21 +33,22 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
 
 Esse projeto foi desenvolvido com  as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
-
-- [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [Visual Studio 2017](https://nodejs.org/en/) 
+- [Asp.NET](https://reactjs.org)
+- [CSharp](https://facebook.github.io/react-native/)
+- [JavaScript](https://expo.io/)
+- [HTML5](https://nodejs.org/en/) 
+- [CSS3](https://reactjs.org)
+- [BootStrap](https://facebook.github.io/react-native/)
+- [Android Studio](https://expo.io/)
+- [Java](https://reactjs.org)
+- [MySQL](https://facebook.github.io/react-native/)
 
 ## :Metodologias
-- [Node.js](https://nodejs.org/en/) 
-- [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+- [Design UX](https://nodejs.org/en/) 
+- [Design Sprint](https://reactjs.org)
+- [Design UI](https://facebook.github.io/react-native/)
+- [Scrum](https://expo.io/)
 
 ## :information_source: How To Use
 
