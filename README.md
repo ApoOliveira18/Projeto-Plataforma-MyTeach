@@ -42,13 +42,22 @@ Esse projeto foi desenvolvido com  as seguintes tecnologias:
 - [HTML5](https://devdocs.io/html/) 
 - [CSS3](https://devdocs.io/css/)
 - [BootStrap](https://www.w3schools.com/bootstrap/default.asp)
-- [Android Studio](https://developer.android.com/studio)
 - [Java](https://docs.oracle.com/en/java/)
 - [MySQL](https://dev.mysql.com/doc/refman/8.0/en/sql-syntax-data-definition.html)
 
+## :Softwares
+
+Os seguintes softwares foram utilizados neste projeto:
+
+- [Visual Studio 2017](https://visualstudio.microsoft.com/pt-br/) 
+- [Android Studio](https://developer.android.com/studio)
+- [Adobe](https://www.adobe.com/pt/creativecloud.html)
+- [Figma](https://www.figma.com/)
+
+
 ## :Metodologias
 
-Metodologias utilizadas durante o desenvolvimento:
+Artigos que estou a publicar no Medium que explica resumidamente cada metodologia :
 
 - [Design UX](#) 
 - [Design Sprint](#)
