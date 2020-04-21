@@ -35,16 +35,16 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
 
 Esse projeto foi desenvolvido com  as seguintes tecnologias:
 
-- [Visual Studio 2017](https://nodejs.org/en/) 
-- [Asp.NET](https://reactjs.org)
-- [CSharp](https://facebook.github.io/react-native/)
-- [JavaScript](https://expo.io/)
-- [HTML5](https://nodejs.org/en/) 
-- [CSS3](https://reactjs.org)
-- [BootStrap](https://facebook.github.io/react-native/)
-- [Android Studio](https://expo.io/)
-- [Java](https://reactjs.org)
-- [MySQL](https://facebook.github.io/react-native/)
+- [Visual Studio 2017](https://visualstudio.microsoft.com/pt-br/) 
+- [Asp.NET](https://dotnet.microsoft.com/apps/aspnet)
+- [CSharp](https://docs.microsoft.com/pt-br/dotnet/csharp/)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML5](https://devdocs.io/html/) 
+- [CSS3](https://devdocs.io/css/)
+- [BootStrap](https://www.w3schools.com/bootstrap/default.asp)
+- [Android Studio](https://developer.android.com/studio)
+- [Java](https://docs.oracle.com/en/java/)
+- [MySQL](https://dev.mysql.com/doc/refman/8.0/en/sql-syntax-data-definition.html)
 
 ## :Metodologias
 
