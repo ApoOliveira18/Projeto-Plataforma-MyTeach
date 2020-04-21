@@ -36,20 +36,16 @@ curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
 
 Esse projeto foi desenvolvido com  as seguintes tecnologias:
 
--  [Asp.NET](https://reactjs.org/)
--  [C#](https://reactjs.org/)
--  [HTML5](https://reactjs.org/)
--  [CSS3](https://reactjs.org/)
--  [BootStrap](https://reactjs.org/)
--  [JQuery](https://reactjs.org/)
--  [MySQL5.5](https://reactjs.org/)
--  [Android Studio](https://reactjs.org/)
--  [Java](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/) 
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## :Metodologias
--  [Design Thinking](https://reactjs.org/)
--  [Design Sprint](https://reactjs.org/)
--  [UX Design](https://reactjs.org/)
+- [Node.js](https://nodejs.org/en/) 
+- [React](https://reactjs.org)
+- [React Native](https://facebook.github.io/react-native/)
+- [Expo](https://expo.io/)
 
 ## :information_source: How To Use
 
