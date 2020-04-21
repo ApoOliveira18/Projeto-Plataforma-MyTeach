@@ -11,7 +11,7 @@
     <img  src="MyTeach_SITE/Imagens/Curso/meusPagtos.png" alt="Meus Pagamentos" width="250" />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 💻 Project
+## 💻 Projeto
 <p>
     O MyTeach é uma plataforma que disponibiliza cursos onlines na troca de
 moedas digitais – πJM’s – onde o consumidor consegue ter retorno de algumas
