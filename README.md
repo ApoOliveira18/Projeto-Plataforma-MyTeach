@@ -15,23 +15,7 @@ foi pensado em atender a necessidade de atualização das informações para o
 mercado de trabalho ou nos estudos. Seu desenvolvimento contribui no aprendizado
 e na vida econômica de nossos usuários pois comprando ele ganha mais que o
 curso, ganha também moedas, isso tudo sem sair de casa para estudar.<p>
-<p align="center">
-  <img alt="GitHub top language" src="rocketshoes-react-native.svg">
-
-  <img alt="GitHub language count" src="rocketshoes-react-native.svg">
-
-  <a href="">
-    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/e4cc1482460841bdaa99c2e75e01f0bc.svg">
-  </a>
-
-  <img alt="Repository size" src="rocketshoes-react-native.svg">
-  <a href="">
-    <img alt="GitHub last commit" src="rocketshoes-react-native.svg">
-  </a>
-
-  <a href="rocketshoes-react-native/issues">
-    <img alt="Repository issues" src="rocketshoes-react-native.svg">
-  </a>
+<p>
 
   <img alt="GitHub" src="rocketshoes-react-native.svg">
 </p>
@@ -67,11 +51,11 @@ Esse projeto foi desenvolvido com  as seguintes tecnologias:
 -  [Design Sprint](https://reactjs.org/)
 -  [UX Design](https://reactjs.org/)
 
-## :information_source: Como executar o projeto
+## :information_source: How To Use
 
 Para clonar e usar essa aplicação você vai precisar de Visual Studio 2017, MySQL 5.5 and Android Studio 3.5
 
-## :memo: Licença
+## :memo: License
 This project is under the MIT license. See the [LICENSE] for more information.
 
 ---
